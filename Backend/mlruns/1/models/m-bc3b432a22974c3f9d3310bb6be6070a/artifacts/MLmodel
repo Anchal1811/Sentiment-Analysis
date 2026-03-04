@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/DELL/Desktop/Sentiment - Analysis/Backend/mlruns/1/models/m-bc3b432a22974c3f9d3310bb6be6070a/artifacts
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.10.11
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.20.0
+    model_type: keras
+    save_format: tf
+mlflow_version: 3.10.0
+model_id: m-bc3b432a22974c3f9d3310bb6be6070a
+model_size_bytes: 2067179
+model_uuid: m-bc3b432a22974c3f9d3310bb6be6070a
+prompts: null
+run_id: 8c89a20b176a40dc9f49ec00f9ada37c
+utc_time_created: '2026-03-03 18:35:10.729688'
